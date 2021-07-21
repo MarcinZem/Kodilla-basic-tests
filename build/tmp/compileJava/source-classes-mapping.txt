@@ -1,8 +1,28 @@
+com/kodilla/abstracts/homework/Application.java
+ com.kodilla.abstracts.homework.Application
+com/kodilla/abstracts/homework/square.java
+ com.kodilla.abstracts.homework.square
+com/kodilla/abstracts/Animal.java
+ com.kodilla.abstracts.Animal
 com/kodilla/inheritance/homework/Windows.java
  com.kodilla.inheritance.homework.Windows
-com/kodilla/inheritance/homework/OperatingSystem.java
- com.kodilla.inheritance.homework.OperatingSystem
-com/kodilla/inheritance/homework/Application.java
- com.kodilla.inheritance.homework.Application
 com/kodilla/inheritance/homework/Linux.java
  com.kodilla.inheritance.homework.Linux
+com/kodilla/abstracts/AnimalProcessor.java
+ com.kodilla.abstracts.AnimalProcessor
+com/kodilla/inheritance/homework/Application.java
+ com.kodilla.inheritance.homework.Application
+com/kodilla/abstracts/homework/triangle.java
+ com.kodilla.abstracts.homework.triangle
+com/kodilla/abstracts/Application.java
+ com.kodilla.abstracts.Application
+com/kodilla/abstracts/Dog.java
+ com.kodilla.abstracts.Dog
+com/kodilla/inheritance/homework/OperatingSystem.java
+ com.kodilla.inheritance.homework.OperatingSystem
+com/kodilla/abstracts/homework/rectangle.java
+ com.kodilla.abstracts.homework.rectangle
+com/kodilla/abstracts/Duck.java
+ com.kodilla.abstracts.Duck
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
