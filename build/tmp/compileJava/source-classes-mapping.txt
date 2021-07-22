@@ -1,5 +1,9 @@
 com/kodilla/abstracts/homework/Application.java
  com.kodilla.abstracts.homework.Application
+com/kodilla/abstracts/homework/Brukarz.java
+ com.kodilla.abstracts.homework.Brukarz
+com/kodilla/abstracts/homework/Person.java
+ com.kodilla.abstracts.homework.Person
 com/kodilla/abstracts/homework/square.java
  com.kodilla.abstracts.homework.square
 com/kodilla/abstracts/Animal.java
@@ -12,6 +16,10 @@ com/kodilla/abstracts/AnimalProcessor.java
  com.kodilla.abstracts.AnimalProcessor
 com/kodilla/inheritance/homework/Application.java
  com.kodilla.inheritance.homework.Application
+com/kodilla/abstracts/homework/Job.java
+ com.kodilla.abstracts.homework.Job
+com/kodilla/abstracts/homework/Piekarz.java
+ com.kodilla.abstracts.homework.Piekarz
 com/kodilla/abstracts/homework/triangle.java
  com.kodilla.abstracts.homework.triangle
 com/kodilla/abstracts/Application.java
