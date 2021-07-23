@@ -4,12 +4,16 @@ com/kodilla/abstracts/homework/Brukarz.java
  com.kodilla.abstracts.homework.Brukarz
 com/kodilla/abstracts/homework/Person.java
  com.kodilla.abstracts.homework.Person
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
 com/kodilla/abstracts/homework/square.java
  com.kodilla.abstracts.homework.square
 com/kodilla/abstracts/Animal.java
  com.kodilla.abstracts.Animal
 com/kodilla/inheritance/homework/Windows.java
  com.kodilla.inheritance.homework.Windows
+com/kodilla/basic_assertion/ResultChecker.java
+ com.kodilla.basic_assertion.ResultChecker
 com/kodilla/inheritance/homework/Linux.java
  com.kodilla.inheritance.homework.Linux
 com/kodilla/abstracts/AnimalProcessor.java
@@ -32,5 +36,7 @@ com/kodilla/abstracts/homework/rectangle.java
  com.kodilla.abstracts.homework.rectangle
 com/kodilla/abstracts/Duck.java
  com.kodilla.abstracts.Duck
-com/kodilla/abstracts/homework/Shape.java
- com.kodilla.abstracts.homework.Shape
+com/kodilla/basic_assertion/Application.java
+ com.kodilla.basic_assertion.Application
+com/kodilla/basic_assertion/Calculator.java
+ com.kodilla.basic_assertion.Calculator
