@@ -4,39 +4,57 @@ com/kodilla/abstracts/homework/Brukarz.java
  com.kodilla.abstracts.homework.Brukarz
 com/kodilla/abstracts/homework/Person.java
  com.kodilla.abstracts.homework.Person
-com/kodilla/abstracts/homework/Shape.java
- com.kodilla.abstracts.homework.Shape
-com/kodilla/abstracts/homework/square.java
- com.kodilla.abstracts.homework.square
+com/kodilla/basic_assertion/Application.java
+ com.kodilla.basic_assertion.Application
 com/kodilla/abstracts/Animal.java
  com.kodilla.abstracts.Animal
-com/kodilla/inheritance/homework/Windows.java
- com.kodilla.inheritance.homework.Windows
 com/kodilla/basic_assertion/ResultChecker.java
  com.kodilla.basic_assertion.ResultChecker
-com/kodilla/inheritance/homework/Linux.java
- com.kodilla.inheritance.homework.Linux
-com/kodilla/abstracts/AnimalProcessor.java
- com.kodilla.abstracts.AnimalProcessor
 com/kodilla/inheritance/homework/Application.java
  com.kodilla.inheritance.homework.Application
 com/kodilla/abstracts/homework/Job.java
  com.kodilla.abstracts.homework.Job
 com/kodilla/abstracts/homework/Piekarz.java
  com.kodilla.abstracts.homework.Piekarz
-com/kodilla/abstracts/homework/triangle.java
- com.kodilla.abstracts.homework.triangle
 com/kodilla/abstracts/Application.java
  com.kodilla.abstracts.Application
 com/kodilla/abstracts/Dog.java
  com.kodilla.abstracts.Dog
+com/kodilla/basic_assertion/PrimeChecker.java
+ com.kodilla.basic_assertion.PrimeChecker
 com/kodilla/inheritance/homework/OperatingSystem.java
  com.kodilla.inheritance.homework.OperatingSystem
+com/kodilla/school/GradesTestSuite.java
+ GradesTestSuite
 com/kodilla/abstracts/homework/rectangle.java
  com.kodilla.abstracts.homework.rectangle
+com/kodilla/school/Student.java
+ com.kodilla.school.Student
 com/kodilla/abstracts/Duck.java
  com.kodilla.abstracts.Duck
-com/kodilla/basic_assertion/Application.java
- com.kodilla.basic_assertion.Application
 com/kodilla/basic_assertion/Calculator.java
  com.kodilla.basic_assertion.Calculator
+com/kodilla/basic_assertion/Assertions.java
+ com.kodilla.basic_assertion.Assertions
+com/kodilla/bank/homework/BankTestSuite.java
+ com.kodilla.bank.homework.BankTestSuite
+com/kodilla/abstracts/homework/square.java
+ com.kodilla.abstracts.homework.square
+com/kodilla/inheritance/homework/Windows.java
+ com.kodilla.inheritance.homework.Windows
+com/kodilla/school/Grades.java
+ com.kodilla.school.Grades
+com/kodilla/inheritance/homework/Linux.java
+ com.kodilla.inheritance.homework.Linux
+com/kodilla/abstracts/AnimalProcessor.java
+ com.kodilla.abstracts.AnimalProcessor
+com/kodilla/abstracts/homework/Shape.java
+ com.kodilla.abstracts.homework.Shape
+com/kodilla/abstracts/homework/triangle.java
+ com.kodilla.abstracts.homework.triangle
+com/kodilla/school/StudentTestSuite.java
+ com.kodilla.school.StudentTestSuite
+com/kodilla/bank/homework/CashMachine.java
+ com.kodilla.bank.homework.CashMachine
+com/kodilla/bank/homework/Bank.java
+ com.kodilla.bank.homework.Bank

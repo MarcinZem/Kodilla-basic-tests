@@ -1,0 +1,4 @@
+com/kodilla/basic_assertion/PrimeCheckerTestSuite.java
+ com.kodilla.basic_assertion.PrimeCheckerTestSuite
+com/kodilla/basic_assertion/CalculatorTestSuite.java
+ com.kodilla.basic_assertion.CalculatorTestSuite

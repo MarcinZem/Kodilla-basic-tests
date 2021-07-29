@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.basic_assertion.CalculatorTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-29T15:36:14" hostname="DESKTOP-8MLVL7P" time="0.022">
+  <properties/>
+  <testcase name="testPow()" classname="com.kodilla.basic_assertion.CalculatorTestSuite" time="0.02"/>
+  <testcase name="testSum()" classname="com.kodilla.basic_assertion.CalculatorTestSuite" time="0.001"/>
+  <testcase name="testSubtract()" classname="com.kodilla.basic_assertion.CalculatorTestSuite" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

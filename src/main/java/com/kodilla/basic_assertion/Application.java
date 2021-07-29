@@ -27,7 +27,7 @@ public class Application {
         Calculator calculator2 = new Calculator();
         a = 10;
         b = 5;
-        int PowResult = calculator.pow(a, b);
+        double PowResult = calculator.pow(a, b);
         boolean ok = ResultChecker.assertEquals(100000, PowResult);
         if (ok) {
             System.out.println("Metoda potęgowania jest prawidlowa, dla liczb " + a + " i " + b);
